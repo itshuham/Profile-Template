@@ -44,9 +44,13 @@ You can deploy this template to any of your frontend project
 * [CSS3](https://www.tutorialspoint.com/css/css3_tutorial.htm) - CSS3
 
 ## Project Screenshot
+### Home Page
 ![Landing Page](Home.png)
+### About Me Page
 ![About Me Page](About.png)
+### Work Page
 ![Work Showcase Page](Work.png)
+### Contact Page
 ![Contact Page](Contact.png)
 
 
